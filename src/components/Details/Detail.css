@@ -1,0 +1,12 @@
+.Detail {
+  background-color: #5b28ae;
+  background: -webkit-linear-gradient(left, #5b28ae, #b249b6);
+  background: -moz-linear-gradient(left, #5b28ae, #b249b6);
+  background: linear-gradient(to right, #5b28ae, #b249b6);
+}
+
+#login__details {
+  text-align: center;
+  margin: 2.5em;
+  color: #ffffff;
+}
